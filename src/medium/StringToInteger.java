@@ -1,7 +1,5 @@
 package medium;
 
-import java.math.BigInteger;
-
 /**
  * QUESTION: 
  * Implement the myAtoi(string s) function, which converts a string to
