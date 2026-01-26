@@ -3,7 +3,7 @@ package easy;
 /**
  * Given an integer x, return true if x is a palindrome , and false otherwise.
  *
- * @author @author m.yusufsonmez03@gmail.com
+ * @author m.yusufsonmez03@gmail.com
  */
 
 public class PalindromeNumber {
